@@ -29,7 +29,8 @@
  
 # >>>>>>> d1903ab46dc2aeb677f7b273e07411e6cd5e440b
 # end
-
+class Dog
+end
 
 
 
